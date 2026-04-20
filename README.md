@@ -41,4 +41,4 @@ Jetson Nano is used for training and model evaluation.
 ---
 
 ## Authors
-- Your Name
+- Malik Tolbert
